@@ -5,15 +5,15 @@
   "main": "app.js",
   "scripts": {
     "start": "app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "boot": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
-  }
-  ,
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.5"
+  },
   "devDependencies": {
     "nodemon": "^2.0.16"
   }

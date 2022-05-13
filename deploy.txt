@@ -1,0 +1,2 @@
+ https://furkannyldrmm.github.io/BlogNode/   --------------- GitHub deploy işlemi 
+ blog-node-542uqqs4b-furkannyldrmm.vercel.app  -------------- Vercel kullanarak deploy işlemi
